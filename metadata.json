@@ -1,0 +1,5 @@
+{
+  "name": "Release Document AI Assistant",
+  "description": "An AI-powered tool for business analysts to generate standardized documentation (UTC plans, INF plans, Downtime plans, etc.) for SIT and release teams, streamlining the process of preparing artifacts for ServiceNow.",
+  "requestFramePermissions": []
+}
